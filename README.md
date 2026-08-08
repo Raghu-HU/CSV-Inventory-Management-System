@@ -173,7 +173,7 @@ Possible improvements for future versions include:
 
 ## Author
 
-**Raghu Singh**
+**Raghu Raj Singh**
 
 ---
 
